@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelopoole)](https://github.com/anuraghazra/github-readme-stats)
 
-Working in azure for the past few months so commit history is not indicative of current work. [03/21/22]
 <!--
 **angelopoole/angelopoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
